@@ -1,0 +1,2 @@
+package vn.edu.vtiacademy.training.exercise6.component;public class AdvertisementPopup {
+}
