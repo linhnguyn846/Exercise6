@@ -248,7 +248,7 @@ There are a couple of ways to execute the code
 To run test project, simply right-click on ItemsInCart.xml and select "Run"
 To run test project ,right-click on TestNGRunner and select "Run"
 
-Typing this line to terminal mvn --settings ./maven/config/settings.xml test -Dtestsuite=ItemsInCart
+Typing this line to terminal mvn --settings ./maven/config/settings.xml test -Dtestsuite=CartTest
 
 Please ensure that you added the required code to the pom.xml file
 
@@ -260,6 +260,7 @@ Contribution guidelines
 Writing tests
 Code review
 Other guidelines
-🤔 📧 Who do I talk to?
+
+Who do I talk to?
 My Linh nguyenthimylinh0712@gmail.com
 Luu Minh Tuyen (Mentor)
